@@ -1,1 +1,1 @@
-My first readme
+scripts to create alias files
