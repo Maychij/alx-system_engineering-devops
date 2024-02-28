@@ -1,1 +1,1 @@
-scripts to create alias files
+0x06-regular_expressions task
